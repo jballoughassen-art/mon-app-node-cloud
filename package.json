@@ -1,0 +1,25 @@
+{
+  "name": "mon-app-node-cloud",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jballoughassen-art/mon-app-node-cloud.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/jballoughassen-art/mon-app-node-cloud/issues"
+  },
+  "homepage": "https://github.com/jballoughassen-art/mon-app-node-cloud#readme",
+  "dependencies": {
+    "express": "^5.3.0"
+  }
+}
